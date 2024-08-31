@@ -9,3 +9,22 @@ The LS Recommendation System is an advanced recommendation engine that integrate
 - **Model Serving:** Deploys models as microservices with autoscaling and performance monitoring.
 - **Event-Driven Architecture:** Processes user interactions and feedback in real-time using an event bus.
 - **DevOps Integration:** Includes CI/CD pipelines, Docker, Kubernetes, and Terraform for deployment.
+
+## Directory Structure
+```bash
+├── data-ingestion/
+├── model-training/
+├── model-serving/
+├── recommendation-engine/
+├── databases/
+├── data-lake/
+├── data-warehouse/
+├── event-bus/
+├── docker/
+├── .github/workflows/
+├── helm/
+├── terraform/
+├── ansible/
+├── scripts/
+├── docs/
+├── configs/
