@@ -1,4 +1,4 @@
-# Python
+Python
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -6,7 +6,7 @@ __pycache__/
 venv/
 .env
 
-# Scala
+Scala
 target/
 *.class
 .project
