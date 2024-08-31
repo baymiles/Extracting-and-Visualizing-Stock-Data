@@ -1,7 +1,7 @@
 # LS Recommendation System
 
 ## Overview
-The LS Recommendation System is an advanced recommendation engine that integrates collaborative filtering, matrix factorization, and deep learning techniques. Designed for handling large-scale datasets, this system is built using a combination of Python, Scala, and Java, leveraging modern tools like Spark, Hadoop, and TensorFlow for processing and model training.
+A recommendation engine that integrates collaborative filtering, matrix factorization, and deep learning techniques. Designed for handling large-scale datasets, this system is built using a combination of Python, Scala, and Java, leveraging modern tools like Spark, Hadoop, and TensorFlow for processing and model training.
 
 ## Features
 - **Data Ingestion and Preprocessing:** Supports API and database extraction, data cleaning, normalization, and feature engineering.
